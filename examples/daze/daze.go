@@ -16,16 +16,16 @@ import (
 
 	//"github.com/mattn/go-colorable"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/bot/basic"
-	"github.com/Tnze/go-mc/bot/msg"
-	"github.com/Tnze/go-mc/bot/playerlist"
-	"github.com/Tnze/go-mc/bot/screen"
-	"github.com/Tnze/go-mc/bot/world"
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/data/item"
-	_ "github.com/Tnze/go-mc/data/lang/zh-cn"
-	"github.com/Tnze/go-mc/level"
+	"github.com/SkyVillageMC/go-mc/bot"
+	"github.com/SkyVillageMC/go-mc/bot/basic"
+	"github.com/SkyVillageMC/go-mc/bot/msg"
+	"github.com/SkyVillageMC/go-mc/bot/playerlist"
+	"github.com/SkyVillageMC/go-mc/bot/screen"
+	"github.com/SkyVillageMC/go-mc/bot/world"
+	"github.com/SkyVillageMC/go-mc/chat"
+	"github.com/SkyVillageMC/go-mc/data/item"
+	_ "github.com/SkyVillageMC/go-mc/data/lang/zh-cn"
+	"github.com/SkyVillageMC/go-mc/level"
 )
 
 var (

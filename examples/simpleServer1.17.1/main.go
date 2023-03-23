@@ -10,10 +10,10 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/nbt"
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/offline"
+	"github.com/SkyVillageMC/go-mc/nbt"
+	"github.com/SkyVillageMC/go-mc/net"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/offline"
 )
 
 const (

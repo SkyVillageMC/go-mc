@@ -2,7 +2,7 @@
 
 package ca_es
 
-import "github.com/Tnze/go-mc/chat"
+import "github.com/SkyVillageMC/go-mc/chat"
 
 func init() { chat.SetLanguage(Map) }
 

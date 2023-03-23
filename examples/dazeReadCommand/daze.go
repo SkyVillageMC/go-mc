@@ -10,12 +10,12 @@ import (
 
 	//"github.com/mattn/go-colorable"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/bot/basic"
-	"github.com/Tnze/go-mc/bot/screen"
-	_ "github.com/Tnze/go-mc/data/lang/zh-cn"
-	"github.com/Tnze/go-mc/data/packetid"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/bot"
+	"github.com/SkyVillageMC/go-mc/bot/basic"
+	"github.com/SkyVillageMC/go-mc/bot/screen"
+	_ "github.com/SkyVillageMC/go-mc/data/lang/zh-cn"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
 )
 
 var (

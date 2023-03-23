@@ -1,6 +1,6 @@
 package registry
 
-import "github.com/Tnze/go-mc/chat"
+import "github.com/SkyVillageMC/go-mc/chat"
 
 type ChatType struct {
 	Chat      chat.Decoration `nbt:"chat"`

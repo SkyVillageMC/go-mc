@@ -3,7 +3,7 @@ package save
 import (
 	"testing"
 
-	"github.com/Tnze/go-mc/save/region"
+	"github.com/SkyVillageMC/go-mc/save/region"
 )
 
 func TestColumn(t *testing.T) {

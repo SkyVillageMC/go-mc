@@ -1,6 +1,6 @@
 package registry
 
-import "github.com/Tnze/go-mc/nbt"
+import "github.com/SkyVillageMC/go-mc/nbt"
 
 type Dimension struct {
 	FixedTime          int64   `nbt:"fixed_time,omitempty"`

@@ -9,10 +9,10 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/data/packetid"
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/chat"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	"github.com/SkyVillageMC/go-mc/net"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
 )
 
 // ListPingHandler collect server running status info

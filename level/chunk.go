@@ -9,11 +9,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Tnze/go-mc/level/biome"
-	"github.com/Tnze/go-mc/level/block"
-	"github.com/Tnze/go-mc/nbt"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/save"
+	"github.com/SkyVillageMC/go-mc/level/biome"
+	"github.com/SkyVillageMC/go-mc/level/block"
+	"github.com/SkyVillageMC/go-mc/nbt"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/save"
 )
 
 type ChunkPos [2]int32

@@ -7,13 +7,13 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/data/packetid"
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/offline"
-	"github.com/Tnze/go-mc/server/auth"
-	"github.com/Tnze/go-mc/yggdrasil/user"
+	"github.com/SkyVillageMC/go-mc/chat"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	"github.com/SkyVillageMC/go-mc/net"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/offline"
+	"github.com/SkyVillageMC/go-mc/server/auth"
+	"github.com/SkyVillageMC/go-mc/yggdrasil/user"
 
 	"github.com/google/uuid"
 )

@@ -9,7 +9,7 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/Tnze/go-mc/internal/generateutils"
+	"github.com/SkyVillageMC/go-mc/internal/generateutils"
 )
 
 type registry struct {

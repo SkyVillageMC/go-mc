@@ -3,8 +3,8 @@ package bot
 import (
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/data/packetid"
-	"github.com/Tnze/go-mc/net"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	"github.com/SkyVillageMC/go-mc/net"
 )
 
 // Client is used to access Minecraft server

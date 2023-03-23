@@ -1,6 +1,6 @@
 package registry
 
-import "github.com/Tnze/go-mc/nbt"
+import "github.com/SkyVillageMC/go-mc/nbt"
 
 type NetworkCodec struct {
 	ChatType      Registry[ChatType]       `nbt:"minecraft:chat_type"`

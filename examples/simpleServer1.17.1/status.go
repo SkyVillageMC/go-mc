@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/chat"
+	"github.com/SkyVillageMC/go-mc/net"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
 	"github.com/google/uuid"
 )
 

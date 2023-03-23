@@ -6,14 +6,14 @@ import (
 
 	//"github.com/mattn/go-colorable"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/bot/basic"
-	"github.com/Tnze/go-mc/bot/msg"
-	"github.com/Tnze/go-mc/bot/playerlist"
-	"github.com/Tnze/go-mc/chat"
-	_ "github.com/Tnze/go-mc/data/lang/en-us"
-	"github.com/Tnze/go-mc/data/packetid"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/bot"
+	"github.com/SkyVillageMC/go-mc/bot/basic"
+	"github.com/SkyVillageMC/go-mc/bot/msg"
+	"github.com/SkyVillageMC/go-mc/bot/playerlist"
+	"github.com/SkyVillageMC/go-mc/chat"
+	_ "github.com/SkyVillageMC/go-mc/data/lang/en-us"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
 )
 
 const timeout = 45

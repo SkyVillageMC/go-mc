@@ -3,8 +3,8 @@ package bot
 import (
 	"fmt"
 
-	"github.com/Tnze/go-mc/data/packetid"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
 )
 
 // HandleGame receive server packet and response them correctly.

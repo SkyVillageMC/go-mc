@@ -1,10 +1,10 @@
 package basic
 
 import (
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/data/packetid"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/bot"
+	"github.com/SkyVillageMC/go-mc/chat"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
 )
 
 // EventsListener is a collection of event handlers.

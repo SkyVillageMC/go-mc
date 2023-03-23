@@ -14,9 +14,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Tnze/go-mc/data/packetid"
-	"github.com/Tnze/go-mc/net/CFB8"
-	pk "github.com/Tnze/go-mc/net/packet"
+	"github.com/SkyVillageMC/go-mc/data/packetid"
+	"github.com/SkyVillageMC/go-mc/net/CFB8"
+	pk "github.com/SkyVillageMC/go-mc/net/packet"
 )
 
 // Auth includes an account
